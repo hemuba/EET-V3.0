@@ -17,7 +17,7 @@ EET (Easy Entry Tool) v3.0 is a desktop automation application designed to simpl
 
 ### Prerequisites
 
-Ensure you have Python installed on your system. This project is tested with Python 3.8.
+Ensure you have Python installed on your system. This project is tested with Python 3.12.0
 
 ### Installation
 
